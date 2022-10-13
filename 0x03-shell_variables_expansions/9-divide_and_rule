@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(( $POWER / $divide ))
+echo $(($BREATH**LOVE))
